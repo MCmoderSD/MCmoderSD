@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning Java to get my Abitur degree
 - 🤔 I'm interested in App development and Machine Learning
 - 🥲 I’m looking for help on almost everything
-- 🚩 I'm a 18 year old student living near Stuttgart Germany
-- 📫 I'm adresseable on Discord: **MCmoderSD#9999**
-- 💼 For buisness contact me: seraphin.berger@web.de
+- 🚩 I'm an 18-year-old student living near Stuttgart Germany
+- 📫 I'm addressable on Discord: **MCmoderSD#9999**
+- 💼 For business contact me: seraphin.berger@web.de
 ### IDE's I use
-#### Primarly I use:
+#### Primary I use:
 - [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
