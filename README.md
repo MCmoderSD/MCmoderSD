@@ -43,7 +43,7 @@
 
 - Mainboard: [Asus ROG Strix B450-F Gaming](https://www.asus.com/de/Motherboards/ROG-STRIX-B450-F-GAMING/)
 - CPU: [AMD Ryzen 7 5800X](https://www.amd.com/de/products/cpu/amd-ryzen-7-5800x)
-- Cooler: [NZXT Kraken X63](https://www.nzxt.com/products/kraken-x63)
+- AIO Liquid Cooler: [NZXT Kraken X63](https://www.nzxt.com/products/kraken-x63)
 - RAM: [Crucial Ballistix 2x 8GB DDR4 2400Mhz](https://www.amazon.de/Ballistix-BLS8G4D240FSC-Speicher-PC4-19200-288-Pin/dp/B0198QDLXO/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Crucial+Ballistix+Sport+LT+BLS4K8G4D240FSC&qid=1630305516&sr=8-7)
 - GPU:
   - 1st [MSI Nvidia GeForce RTX 3060 12GB Gaming Z Trio](https://www.msi.com/Graphics-card/GeForce-RTX-3060-GAMING-Z-TRIO-12G)
