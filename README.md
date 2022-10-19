@@ -43,17 +43,17 @@
 
 - Mainboard: [Asus ROG Strix B450-F Gaming](https://www.asus.com/de/Motherboards/ROG-STRIX-B450-F-GAMING/)
 - CPU: [AMD Ryzen 7 5800X](https://www.amd.com/de/products/cpu/amd-ryzen-7-5800x)
-- AIO Liquid Cooler: [NZXT Kraken X63](https://www.nzxt.com/products/kraken-x63)
+- AIO Liquid Cooler: [NZXT Kraken X63 RGB](https://nzxt.com/product/kraken-x63-rgb)
 - RAM: [Crucial Ballistix 2x 8GB DDR4 2400Mhz](https://www.amazon.de/Ballistix-BLS8G4D240FSC-Speicher-PC4-19200-288-Pin/dp/B0198QDLXO/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Crucial+Ballistix+Sport+LT+BLS4K8G4D240FSC&qid=1630305516&sr=8-7)
 - GPU:
   - 1st [MSI Nvidia GeForce RTX 3060 12GB Gaming Z Trio](https://www.msi.com/Graphics-card/GeForce-RTX-3060-GAMING-Z-TRIO-12G)
   - 2nd [Gigabyte Nvidia GeForce GTX 1060 6GB](https://www.gigabyte.com/de/Graphics-Card/GV-N1060WF2OC-6GD-rev-10-11#kf])
 - PSU: [BeQuiet! Pure Power 11 1000W FM Gold](https://www.bequiet.com/de/powersupply/1256)
 - NVMe M.2 SSD:
-  - C: Drive: [WD Black SN850 TB](https://www.westerndigital.com/de-de/products/internal-drives/wd-black-sn850-nvme-ssd)
-   - D: Drive: [Samsung 970 EVO 1TB](https://www.samsung.com/de/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1tb-mz-v7s1t0b/)
+  - C: Drive: [WD Black SN850 1TB](https://www.westerndigital.com/de-de/products/internal-drives/wd-black-sn850-nvme-ssd)
+  - D: Drive: [Samsung 970 EVO 1TB](https://www.samsung.com/de/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1tb-mz-v7s1t0b/)
 - HDD: [2x WD Blue 4TB HDD](https://shop.westerndigital.com/de-de/products/internal-drives/wd-blue-desktop-sata-hdd#WD40EZRZ)
-- Case: [Kolink Balance](https://www.kolink.com/en/products/balance)
+- Case: [Kolink Balance](https://kolink.eu/Home/case-1/midi-tower-2/others/balance-1.html)
 - OS: [Windows 11 Pro](https://www.microsoft.com/de-de/windows/windows-11-pro)
 - Internet ISP: [Vodafone 100mbit/s ↓ 40mbit/s ↑](https://www.vodafone.de/)
 - Router/Modem: [AMV FRITZ!Box 7530](https://avm.de/produkte/fritzbox/fritzbox-7530/)
