@@ -19,7 +19,7 @@
 
 <br>
 
-### Project solutions
+### Project solutions (**not Sponsored**)
 
 - [1blu](https://www.1blu.de/server/vserver/) (My favorite VPS provider) 
 - [BitviseSHH](https://www.bitvise.com/ssh-client-download) (My favorite SSH client)
