@@ -17,7 +17,7 @@
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Rider](https://www.jetbrains.com/rider/)
 
-#### but in also like:
+#### but I also like:
 
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) (with all the other cool IDE's)
 - [Visual Studio Code](https://code.visualstudio.com/)
