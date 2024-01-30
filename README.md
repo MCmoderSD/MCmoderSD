@@ -62,7 +62,7 @@
 - OS: [Windows 11 Pro](https://www.microsoft.com/de-de/windows/windows-11-pro)
 - Internet ISP: [Vodafone 100mbit/s ↓ 40mbit/s ↑](https://www.vodafone.de/)
 - Router/Modem: [AMV FRITZ!Box 7530](https://avm.de/produkte/fritzbox/fritzbox-7530/)
-- Router Access Point: [D-LINK DIR-X1560 AX1500 EXO WI-Fi 6 Router](https://eu.dlink.com/de/de/products/dir-x1560-ax1500-wifi-6-router)
+- Router Access Point: [AMV FRITZ!Box 7430](https://www.mediamarkt.de/de/product/_avm-fritzbox-7430-20002733-router-107835303.html)
 - Monitors:
     - Main: [AOC AGON AG251FZ 240hz](https://agon.aocmonitorap.com/my/product_ag251fz.php)
     - 2nd: [Samsung LF24T350FHR](https://www.samsung.com/de/monitors/flat/t35f-24-inch-ips-fhd-1080p-freesync-lf24t350fhrxen/)
@@ -75,7 +75,7 @@
 - Mousepad:[Glorious 3XL Extended Mousepad (61x122x0,3cm)](https://www.pcgamingrace.com/products/glorious-3xl-extended-24x48-stealth-edition)
 - Controller: [Xbox Wireless Controller Custom Design](https://xboxdesignlab.xbox.com/)
 - VR Headset: [HTC Vive Cosmos](https://www.vive.com/de/product/vive-cosmos/overview/)
-- Smartphone: [Samsung Galaxy S52s 5G](https://www.samsung.com/de/smartphones/galaxy-a/galaxy-a52s-5g-awesome-black-128gb-sm-a528bzkceub/)
+- Smartphone: [Samsung Galaxy S23+](https://www.samsung.com/de/smartphones/galaxy-s23/buy/)
 - Tablet: [Samsung Galaxy Tab S6 Lite](https://www.samsung.com/de/tablets/galaxy-tab-s/galaxy-tab-s6-lite-wi-fi-2022-edition-gray-128gb-sm-p613nzaedbt/)
 - EarBuds: [Samsung Galaxy Buds Live](https://www.samsung.com/de/audio-sound/galaxy-buds/galaxy-buds-live-mystic-black-sm-r180nzkaeua/)
 - Lights: [Govee RGBIC LED Strip](https://www.amazon.de/gp/product/B093PRYW1D/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
