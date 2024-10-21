@@ -24,7 +24,7 @@
 
 ## Socials
 
-[![Homepage](https://img.shields.io/badge/MCmoderSD.de-0a0c10?style=for-the-badge&logo=<IMGUR_LINK_TO_FAVICON>&logoColor=white&height=30)](https://mcmodersd.de/)
+[![Homepage](https://img.shields.io/badge/MCmoderSD.de-000?style=for-the-badge&logo=<IMGUR_LINK_TO_FAVICON>&logoColor=white&height=30)](https://mcmodersd.de/)
 [![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&height=30)](https://steamcommunity.com/id/MCmoderSD/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=30)](https://www.twitter.com/MCmoderSD)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&height=30)](https://www.twitch.tv/MCmoderSD)
