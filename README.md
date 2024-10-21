@@ -9,8 +9,6 @@
 **Education**: Currently pursuing German Abitur <br>
 **Experience**: Knowledgeable in Java, Linux, and server management <br>
 
----
-
 ## Technologies & Tools
 
 - **Languages**: Java, C#, SQL
@@ -19,27 +17,21 @@
 - **Version Control**: Git, [GitHub](https://github.com/)
 - **Systems**: Debian-based servers, [TrueNAS Scale](https://www.truenas.com/truenas-scale/)
 
----
-
 ## Contact
 
 - **Business Email**: [business@mcmodersd.de](mailto:business@mcmodersd.de)
 - **Discord**: [MCmoderSD](https://mcmodersd.de/dc)
 
----
-
 ## Socials
 
-[![Homepage](https://img.shields.io/badge/Homepage-000?style=for-the-badge&logo=google-chrome)](https://mcmodersd.de/)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/MCmoderSD)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MCmoderSD/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MCmoderSD)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/MCmoderSD)
-[![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/MCmoderSD/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MCmoderSD)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/y4tppofw9yvrm98uqcfems44f)
-
----
+[![Homepage](https://img.shields.io/badge/MCmoderSD.de-0a0c10?style=for-the-badge&logo=<IMGUR_LINK_TO_FAVICON>&logoColor=white&height=30)](https://mcmodersd.de/)
+[![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&height=30)](https://steamcommunity.com/id/MCmoderSD/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=30)](https://www.twitter.com/MCmoderSD)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&height=30)](https://www.twitch.tv/MCmoderSD)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height=30)](https://www.youtube.com/@MCmoderSD)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&height=30)](https://www.reddit.com/user/MCmoderSD)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=30)](https://www.instagram.com/MCmoderSD/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&height=30)](https://open.spotify.com/user/y4tppofw9yvrm98uqcfems44f)
 
 ## Projects
 
@@ -68,8 +60,6 @@ The project demonstrates fundamental web development skills, emphasizing layout 
 - **Technologies**: HTML, CSS
 - **Purpose**: Educational
 - **Features**: Responsive design, structured layout
-
----
 
 ## Hardware
 
@@ -143,5 +133,3 @@ The project demonstrates fundamental web development skills, emphasizing layout 
 - Router/Modem: [AMV FRITZ!Box 7530](https://avm.de/produkte/fritzbox/fritzbox-7530/)
 - Router Access Point: [AMV FRITZ!Box 7430](https://www.mediamarkt.de/de/product/_avm-fritzbox-7430-20002733-router-107835303.html)
 - Lights: [Govee RGBIC LED Strip](https://www.amazon.de/gp/product/B093PRYW1D/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-
----
