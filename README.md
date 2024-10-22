@@ -14,7 +14,6 @@
 - **Languages**: Java, C#, SQL
 - **IDE's**: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Rider](https://www.jetbrains.com/rider/)
 - **Database**: MySQL
-- **Version Control**: Git, [GitHub](https://github.com/)
 - **Systems**: Debian-based servers, [TrueNAS Scale](https://www.truenas.com/truenas-scale/)
 
 ## Contact
@@ -24,7 +23,7 @@
 
 ## Socials
 
-[![Homepage](https://img.shields.io/badge/MCmoderSD.de-000?style=for-the-badge&logo=<IMGUR_LINK_TO_FAVICON>&logoColor=white&height=30)](https://mcmodersd.de/)
+[![Homepage](https://img.shields.io/badge/MCmoderSD.de-000?style=for-the-badge&logo=&logoColor=white&height=30)](https://mcmodersd.de/)
 [![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&height=30)](https://steamcommunity.com/id/MCmoderSD/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=30)](https://www.twitter.com/MCmoderSD)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&height=30)](https://www.twitch.tv/MCmoderSD)
@@ -63,14 +62,14 @@ The project demonstrates fundamental web development skills, emphasizing layout 
 
 ## Hardware
 
-### Main Rig
+### [Main Rig](https://pcpartpicker.com/list/dkdjYN)
 - Mainboard: [Asus ROG Strix B450-F Gaming](https://www.asus.com/de/Motherboards/ROG-STRIX-B450-F-GAMING/)
 - CPU: [AMD Ryzen 7 5800X](https://www.amd.com/de/products/cpu/amd-ryzen-7-5800x)
 - AIO Liquid Cooler: [NZXT Kraken X63 RGB](https://nzxt.com/product/kraken-x63-rgb)
 - RAM: [Corsair Vengeance RGB Pro 2x32GB 3600MHz CL18](https://www.corsair.com/de/de/p/memory/cmw64gx4m2d3600c18/vengeance-rgb-pro-64gb-2-x-32gb-ddr4-dram-3600mhz-c18-memory-kit-black-cmw64gx4m2d3600c18)
 - GPU:
   - 1st [MSI Nvidia GeForce RTX 3060 12GB Gaming Z Trio](https://www.msi.com/Graphics-card/GeForce-RTX-3060-GAMING-Z-TRIO-12G)
-  - 2nd [Gigabyte Nvidia GeForce GTX 1060 6GB](https://www.gigabyte.com/de/Graphics-Card/GV-N1060WF2OC-6GD-rev-10-11#kf])
+  - 2nd [Gigabyte Nvidia GeForce GTX 1060 6GB WINDFORCE OC](https://www.gigabyte.com/de/Graphics-Card/GV-N1060WF2OC-6GD-rev-10-11#kf])
 - PSU: [BeQuiet! Pure Power 11 1000W FM Gold](https://www.bequiet.com/de/powersupply/1256)
 - NVMe M.2 SSD:
   - C: Drive: [WD Black SN850 1TB](https://www.westerndigital.com/de-de/products/internal-drives/wd-black-sn850-nvme-ssd)
@@ -106,15 +105,17 @@ The project demonstrates fundamental web development skills, emphasizing layout 
 - GPU: [AMD ATI 03:00.0 Barcelo](https://www.techpowerup.com/gpu-specs/amd-barcelo.g1045)
 - NVMe: [SK Hynix 512 GB NVMe M.2 SSD](https://www.amazon.de/SK-Hynix-Gaming-Internes-Solid/dp/B0CK8LRS2K/ref=sr_1_6?dib=eyJ2IjoiMSJ9.wcI-dA-wV_rtP6wBbZC5zOdcUYkoMEk78amhIrl7XHdOp1rvB6VRHDjGXC64xEQEszxoMcWidtcSY_UsKAQ20YX3UjimPrTnCENYh7faJDWdjpBHqqOYV_xMPeWuRj0J8lyc-my0x18CSQmWg-qi1Gie7uBjSk0EgyAlZdBPOHDSE2i85Qdh0aiIySmzWRhTT-V4jSc0RqqXJkB_levB5Urp7XzzdmQHKOrvP0ybkbE.XeRJVTPshp7kE2pWrzf7ljjWzu7zrjdYvnATWzG2GFQ&dib_tag=se&keywords=Sk+Hynix+Ssd&qid=1729535837&sr=8-6)
 - OS [Kubuntu 24.10 with KDE Plasma 6.1.5](https://kubuntu.org/getkubuntu/)
+- Mouse: [SteelSeries Rival 3](https://de.steelseries.com/gaming-mice/rival-3-wireless)
 
 ---
 
-### Home Server
-- Mainboard:
+### [Home Server](https://pcpartpicker.com/list/W9NkGP)
+- Mainboard: [Asus Prime B450M-A II](https://www.asus.com/de/motherboards-components/motherboards/prime/prime-b450m-a-ii/)
 - CPU: [AMD Ryzen 5 3400G](https://www.mindfactory.de/product_info.php/AMD-Ryzen-5-3400G-4x-3-70GHz-So-AM4-BOX_1313642.html)
 - RAM: [4x 8GB 2400MHz](https://www.amazon.de/Ballistix-BLS8G4D240FSC-Speicher-PC4-19200-288-Pin/dp/B0198QDLXO/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Crucial+Ballistix+Sport+LT+BLS4K8G4D240FSC&qid=1630305516&sr=8-7)
+- iGPU [AMD Radeon RX Vega 11](https://www.notebookcheck.com/AMD-Radeon-RX-Vega-11-GPU-Ryzen-APU.278618.0.html)
 - GPU: [Nvidia GT 720 2GB](https://www.mindfactory.de/product_info.php/2GB-MSI-GeForce-GT-720-GDDR5-Passiv-PCIe-2-0-x-8--Retail-_982919.html)
-- PSU: [BeQuiet System Power 9](https://www.bequiet.com/de/powersupply/1281)
+- PSU: [BeQuiet! System Power 9](https://www.bequiet.com/de/powersupply/1281)
 - OS: [TrueNAS Scale](https://www.truenas.com/truenas-scale/)
 - Drives:
   - 3x 500GB HHD's
