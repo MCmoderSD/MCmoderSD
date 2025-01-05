@@ -62,7 +62,7 @@ The project demonstrates fundamental web development skills, emphasizing layout 
 
 ## Hardware
 
-### [Main Rig](https://pcpartpicker.com/list/dkdjYN)
+### [Main Rig](https://pcpartpicker.com/list/V9Txgn)
 - Mainboard: [Asus ROG Strix B550-F Gaming WiFi 2](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/)
 - CPU: [AMD Ryzen 7 5800X](https://www.amd.com/de/products/cpu/amd-ryzen-7-5800x)
 - AIO Liquid Cooler: [NZXT Kraken X63 RGB](https://nzxt.com/product/kraken-x63-rgb)
