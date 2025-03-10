@@ -62,18 +62,16 @@ The project demonstrates fundamental web development skills, emphasizing layout 
 
 ## Hardware
 
-### [Main Rig](https://pcpartpicker.com/list/dkdjYN)
-- Mainboard: [Asus ROG Strix B450-F Gaming](https://www.asus.com/de/Motherboards/ROG-STRIX-B450-F-GAMING/)
+### [Main Rig](https://pcpartpicker.com/list/zttyWc)
+- Mainboard: [Asus ROG Strix B550-F Gaming WiFi 2](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/)
 - CPU: [AMD Ryzen 7 5800X](https://www.amd.com/de/products/cpu/amd-ryzen-7-5800x)
 - AIO Liquid Cooler: [NZXT Kraken X63 RGB](https://nzxt.com/product/kraken-x63-rgb)
 - RAM: [Corsair Vengeance RGB Pro 2x32GB 3600MHz CL18](https://www.corsair.com/de/de/p/memory/cmw64gx4m2d3600c18/vengeance-rgb-pro-64gb-2-x-32gb-ddr4-dram-3600mhz-c18-memory-kit-black-cmw64gx4m2d3600c18)
-- GPU:
-  - 1st [MSI Nvidia GeForce RTX 3060 12GB Gaming Z Trio](https://www.msi.com/Graphics-card/GeForce-RTX-3060-GAMING-Z-TRIO-12G)
-  - 2nd [Gigabyte Nvidia GeForce GTX 1060 6GB WINDFORCE OC](https://www.gigabyte.com/de/Graphics-Card/GV-N1060WF2OC-6GD-rev-10-11#kf)
-- PSU: [BeQuiet! Pure Power 11 1000W FM Gold](https://www.bequiet.com/de/powersupply/1256)
+- GPU: [MSI Nvidia GeForce RTX 3060 12GB Gaming Z Trio](https://www.msi.com/Graphics-card/GeForce-RTX-3060-GAMING-Z-TRIO-12G)
+- PSU: [BeQuiet! Pure Power 12 M 750W](https://www.bequiet.com/de/powersupply/4073)
 - NVMe M.2 SSD:
-  - C: Drive: [WD Black SN850 1TB](https://www.westerndigital.com/de-de/products/internal-drives/wd-black-sn850-nvme-ssd)
-  - D: Drive: [Samsung 970 EVO 1TB](https://www.samsung.com/de/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1tb-mz-v7s1t0b/)
+  - C: Drive: [WD Black SN850X 2TB](https://shop.sandisk.com/de-de/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd?sku=WDS100T2X0E-00BCA0)
+  - D: Drive: [WD Black SN850 1TB](https://www.westerndigital.com/de-de/products/internal-drives/wd-black-sn850-nvme-ssd)
 
 - HDD: [Seagate Desktop SSHD 2TB](https://www.amazon.de/Seagate-Desktop-interne-Hybrid-Festplatte-7200rpm/dp/B00EIQTKAS)
 - NIC: [Intel X540-AT2 Dual 10GBit/s](https://www.intel.de/content/www/de/de/products/sku/60020/intel-ethernet-controller-x540at2/specifications.html)
@@ -103,7 +101,7 @@ The project demonstrates fundamental web development skills, emphasizing layout 
 - CPU: [AMD Ryzen 5 7530U](https://www.amd.com/de/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7530u.html)
 - RAM: [2x Crucial 16GB DDR4-3200 CL22](https://www.notebooksbilliger.de/crucial+16gb+ddr4+3200+cl22+683186)
 - GPU: [AMD ATI Barcelo](https://www.techpowerup.com/gpu-specs/amd-barcelo.g1045)
-- NVMe: [SK Hynix 512 GB NVMe M.2 SSD](https://www.amazon.de/SK-Hynix-Gaming-Internes-Solid/dp/B0CK8LRS2K/ref=sr_1_6?dib=eyJ2IjoiMSJ9.wcI-dA-wV_rtP6wBbZC5zOdcUYkoMEk78amhIrl7XHdOp1rvB6VRHDjGXC64xEQEszxoMcWidtcSY_UsKAQ20YX3UjimPrTnCENYh7faJDWdjpBHqqOYV_xMPeWuRj0J8lyc-my0x18CSQmWg-qi1Gie7uBjSk0EgyAlZdBPOHDSE2i85Qdh0aiIySmzWRhTT-V4jSc0RqqXJkB_levB5Urp7XzzdmQHKOrvP0ybkbE.XeRJVTPshp7kE2pWrzf7ljjWzu7zrjdYvnATWzG2GFQ&dib_tag=se&keywords=Sk+Hynix+Ssd&qid=1729535837&sr=8-6)
+- NVMe: [Samsung 970 EVO 1TB](https://www.samsung.com/de/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1tb-mz-v7s1t0b/)
 - OS [Kubuntu 24.10 with KDE Plasma 6.1.5](https://kubuntu.org/getkubuntu/)
 - Mouse: [SteelSeries Rival 3](https://de.steelseries.com/gaming-mice/rival-3-wireless)
 
