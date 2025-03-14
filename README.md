@@ -12,8 +12,8 @@
 ## Technologies & Tools
 
 - **Languages**: Java, C#, SQL
-- **IDE's**: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Rider](https://www.jetbrains.com/rider/)
-- **Database**: MySQL
+- **IDE's**: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Visual Studio Code](https://code.visualstudio.com/)
+- **Database**: MariaDB/MySQL
 - **Systems**: Debian-based servers, [TrueNAS Scale](https://www.truenas.com/truenas-scale/)
 
 ## Contact
@@ -45,16 +45,17 @@ The YEPPBot is a Twitch bot that provides a variety of features to entertain you
 
 ### [MCmoderSD.de](https://github.com/MCmoderSD/MCmoderSD.de/)
 This repository hosts the source code for my personal website, encapsulated as an all-in-one Docker image. 
-It serves as a comprehensive portfolio showcasing my skills in web development, continuous integration, and deployment automation.
+It serves as a comprehensive portfolio showcasing my skills in continuous integration and deployment automation.
 
 #### Technologies Used
 - **HTML**: The primary markup language for the website's structure.
 - **CSS**: Used for styling the website, ensuring a visually appealing and responsive design.
 - **Dockerfile**: Scripts for containerizing the application, making it easy to deploy and manage.
+- **GitHub Actions**: Used for continuous integration and deployment automation through YAML configuration.
 
 #### Purpose
 The main purpose of this repository is to serve as my personal website. 
-It demonstrates my ability to integrate various technologies and tools to build, deploy, and maintain a modern web application.
+It demonstrates my ability to integrate various technologies and tools to build, deploy, and maintain a web application.
 
 #### Key Features
 - **Workflow Automation**: Utilizes GitHub Actions for continuous integration and continuous deployment (CI/CD). This includes building the Docker image and deploying updates seamlessly.
@@ -65,12 +66,22 @@ It demonstrates my ability to integrate various technologies and tools to build,
 
 ---
 
-### [OpenAI-Utility](https://github.com/MCmoderSD/OpenAI-Utility/)
-A Java utility for the OpenAI API services.
+### [JSQL-Driver](https://github.com/MCmoderSD/JSQL-Driver)
+This repository hosts the source code for a simple Java SQL driver designed to connect to SQL databases, compatible with MySQL, MariaDB, and PostgreSQL. 
+It is built to provide a straightforward and efficient way to interact with SQL databases using Java.
 
-- **Technologies**: Java
-- **Purpose**: Integrate and utilize OpenAI API services
-- **Features**: Easy setup and streamlined requests
+#### Technologies Used
+- **Java**: The primary programming language used for developing the SQL driver.
+- **GitHub Actions**: Used for continuous integration and deployment automation through YAML configuration.
+
+#### Purpose
+The main purpose of this repository is to offer a minimalistic and efficient SQL driver for Java applications. 
+It showcases the ability to create, build, and deploy a Java-based library that can be seamlessly integrated into other projects.
+
+#### Key Features
+- **Automated Build and Deployment**: Utilizes GitHub Actions for continuous integration and continuous deployment (CI/CD). This includes building the JAR file and deploying it to my Sonatype Nexus OSS Maven Repository, a self-hosted repository for distributing Maven dependencies.
+- **Workflow Automation**: The GitHub Actions workflow compiles the Java code, packages it into a JAR file, and deploys it to the Sonatype Nexus OSS Maven Repository, ensuring that every commit is automatically built and deployed.
+- **Release Management**: Automatically generates a release on GitHub with the built JAR file and its hashes, providing an added layer of security by allowing users to verify the authenticity and integrity of the downloaded files.
 
 
 ## Hardware
