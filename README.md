@@ -43,6 +43,28 @@ The YEPPBot is a Twitch bot that provides a variety of features to entertain you
 
 ---
 
+### [MCmoderSD.de](https://github.com/MCmoderSD/MCmoderSD.de/)
+This repository hosts the source code for my personal website, encapsulated as an all-in-one Docker image. 
+It serves as a comprehensive portfolio showcasing my skills in web development, continuous integration, and deployment automation.
+
+#### Technologies Used
+- **HTML**: The primary markup language for the website's structure.
+- **CSS**: Used for styling the website, ensuring a visually appealing and responsive design.
+- **Dockerfile**: Scripts for containerizing the application, making it easy to deploy and manage.
+
+#### Purpose
+The main purpose of this repository is to serve as my personal website. 
+It demonstrates my ability to integrate various technologies and tools to build, deploy, and maintain a modern web application.
+
+#### Key Features
+- **Workflow Automation**: Utilizes GitHub Actions for continuous integration and continuous deployment (CI/CD). This includes building the Docker image and deploying updates seamlessly.
+- **Docker Hosting**: The website is hosted within a Docker container, providing a consistent environment across different deployment platforms. The container runs behind a reverse proxy for enhanced performance and security.
+- **Auto-Update with Watchtower**: Watchtower is used to monitor the Docker container for updates. Whenever an update is available, Watchtower automatically pulls the latest version and restarts the container to apply the update without downtime.
+- **Multi-Arch Image**: The Docker image is a multi-architecture image, supporting amd64, arm64, and other architectures. This is essential as the Docker host is a Raspberry Pi at my home.
+- **Optimized Performance**: The Docker image is very slim and performant, requiring minimal space and resources to run efficiently.
+
+---
+
 ### [OpenAI-Utility](https://github.com/MCmoderSD/OpenAI-Utility/)
 A Java utility for the OpenAI API services.
 
@@ -50,15 +72,6 @@ A Java utility for the OpenAI API services.
 - **Purpose**: Integrate and utilize OpenAI API services
 - **Features**: Easy setup and streamlined requests
 
----
-
-### [Cola-Webpage](https://github.com/MCmoderSD/Cola-Webpage/)
-A school project focused on creating a homepage using only **HTML** and **CSS**.
-The project demonstrates fundamental web development skills, emphasizing layout design, styling, and responsive web practices.
-
-- **Technologies**: HTML, CSS
-- **Purpose**: Educational
-- **Features**: Responsive design, structured layout
 
 ## Hardware
 
