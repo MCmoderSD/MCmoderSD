@@ -34,12 +34,31 @@
 
 ## Projects
 
-### [YEPPBot](https://github.com/MCmoderSD/YEPPBot/)
-The YEPPBot is a Twitch bot that provides a variety of features to entertain your Twitch channel.
+### [YEPPBot](https://github.com/MCmoderSD/YEPPBot)
+This repository hosts the source code for the YEPPBot, a comprehensive Twitch bot featuring numerous tools to entertain and manage your Twitch channel.
 
-- **Technologies**: Java, API Integrations
-- **Purpose**: Enhance Twitch channel interaction
-- **Features**: Custom commands, ChatGPT integration and many more viewer engagement tools
+#### Technologies Used
+- **Java**: The primary programming language used for developing the Twitch bot.
+- **Docker**: Used for containerizing the application, making it easy to deploy and manage.
+- **GitHub Actions**: Used for continuous integration and deployment automation through YAML configuration.
+
+#### Purpose
+The main purpose of this repository is to provide a versatile and feature-rich Twitch bot that can help manage and enhance your Twitch channel. <br>
+It demonstrates the ability to create, build, deploy, and maintain a complex Java-based application that interacts with the Twitch platform.
+
+#### Key Features
+- **Automated Build and Deployment**: Utilizes GitHub Actions for CI/CD and multi-architecture support releases.
+- **Multi-API Integration**: Integrates with various third-party APIs to provide a wide range of functionalities:
+  - **OpenAI-Wrapper**: A custom wrapper to interact with OpenAI APIs for advanced functionalities.
+  - **OpenWeatherMap**: Fetches weather information to provide real-time weather updates in the chat.
+  - **RiotGames-API**: Tracks and displays player ranks and stats for games like League of Legends.
+- **Chat Commands**: Provides a wide range of chat commands to engage with viewers and manage the chat more effectively.
+- **Customizable Features**: Offers customizable features and settings to tailor the bot's behavior to the specific needs of the channel.
+- **High Availability**: Connected to a redundant MariaDB database for high availability and failover.
+- **Optimized Performance**: The bot runs very efficiently on a Raspberry Pi and gets auto-updates via Docker Watchtower.
+
+This repository serves as a demonstration of my skills in developing, integrating, and managing a complex Java application with practical applications in the real world.  <br>
+It is my biggest project yet, highlighting my proficiency in building scalable, maintainable, and feature-rich software solutions.
 
 ---
 
