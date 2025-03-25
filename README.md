@@ -49,9 +49,9 @@ It demonstrates the ability to create, build, deploy, and maintain a complex Jav
 #### Key Features
 - **Automated Build and Deployment**: Utilizes GitHub Actions for CI/CD and multi-architecture support releases.
 - **Multi-API Integration**: Integrates with various third-party APIs to provide a wide range of functionalities:
-  - **OpenAI-Wrapper**: A custom wrapper to interact with OpenAI APIs for advanced functionalities.
-  - **OpenWeatherMap**: Fetches weather information to provide real-time weather updates in the chat.
-  - **RiotGames-API**: Tracks and displays player ranks and stats for games like League of Legends.
+  - **[OpenAI-Wrapper](https://github.com/MCmoderSD/OpenAI-Wrapper)**: A custom wrapper to interact with OpenAI APIs for advanced functionalities.
+  - **[OpenWeatherMap](https://github.com/MCmoderSD/OpenWeatherMap)**: Fetches weather information to provide real-time weather updates in the chat.
+  - **[RiotGames-API](https://github.com/MCmoderSD/RiotGames-API)**: Tracks and displays player ranks and stats for games like League of Legends.
 - **Chat Commands**: Provides a wide range of chat commands to engage with viewers and manage the chat more effectively.
 - **Customizable Features**: Offers customizable features and settings to tailor the bot's behavior to the specific needs of the channel.
 - **High Availability**: Connected to a redundant MariaDB database for high availability and failover.
