@@ -2,12 +2,13 @@
 
 ## About Me
 
-**Name**: Seraphin Berger <br>
-**Age**: 20 <br>
-**Location**: Germany <br>
-**Occupation**: Student <br>
-**Education**: Currently pursuing German Abitur <br>
-**Experience**: Knowledgeable in Java, Linux, and server management <br>
+**Name:** Seraphin Berger <br>
+**Age:** 21 <br>
+**Location:** Germany 🇩🇪 <br>
+**Occupation:** Student <br>
+**Education:** Pursuing [B.Eng. Software Engineering and Media Computing](https://www.hs-esslingen.de/en/softwaretechnik-und-medieninformatik) <br>
+**University:** [Hochschule Esslingen - University of Applied Sciences](https://www.hs-esslingen.de/) <br>
+**Experience:** Knowledgeable in Java, Linux, and server management <br>
 
 ## Technologies & Tools
 
@@ -23,14 +24,14 @@
 
 ## Socials
 
-[![Homepage](https://img.shields.io/badge/MCmoderSD.de-000?style=for-the-badge&logo=&logoColor=white&height=30)](https://mcmodersd.de/)
-[![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&height=30)](https://steamcommunity.com/id/MCmoderSD/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=30)](https://www.twitter.com/MCmoderSD)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&height=30)](https://www.twitch.tv/MCmoderSD)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height=30)](https://www.youtube.com/@MCmoderSD)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&height=30)](https://www.reddit.com/user/MCmoderSD)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=30)](https://www.instagram.com/MCmoderSD/)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&height=30)](https://open.spotify.com/user/y4tppofw9yvrm98uqcfems44f)
+[![Homepage](https://img.shields.io/badge/MCmoderSD.de-000?style=for-the-badge&logo=&logoColor=white&height=30)](https://www.MCmoderSD.de/)
+[![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&height=30)](https://www.MCmoderSD.de/steam)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=30)](https://www.MCmoderSD.de/twitter)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&height=30)](https://www.MCmoderSD.de/ttv)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height=30)](https://www.MCmoderSD.de/yt)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&height=30)](https://www.MCmoderSD.de/reddit)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=30)](https://www.MCmoderSD.de/insta)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&height=30)](http://www.MCmoderSD.de/spotify)
 
 ## Projects
 
@@ -49,9 +50,9 @@ It demonstrates the ability to create, build, deploy, and maintain a complex Jav
 #### Key Features
 - **Automated Build and Deployment**: Utilizes GitHub Actions for CI/CD and multi-architecture support releases.
 - **Multi-API Integration**: Integrates with various third-party APIs to provide a wide range of functionalities:
-  - **[OpenAI-Wrapper](https://github.com/MCmoderSD/OpenAI-Wrapper)**: A custom wrapper to interact with OpenAI APIs for advanced functionalities.
-  - **[OpenWeatherMap](https://github.com/MCmoderSD/OpenWeatherMap)**: Fetches weather information to provide real-time weather updates in the chat.
-  - **[RiotGames-API](https://github.com/MCmoderSD/RiotGames-API)**: Tracks and displays player ranks and stats for games like League of Legends.
+  - **[OpenAI-Wrapper](https://www.GitHub.com/MCmoderSD/OpenAI-Wrapper/)**: A custom wrapper to interact with OpenAI APIs for advanced functionalities.
+  - **[OpenWeatherMap](https://www.GitHub.com/MCmoderSD/OpenWeatherMap/)**: Fetches weather information to provide real-time weather updates in the chat.
+  - **[RiotGames-API](https://www.GitHub.com/MCmoderSD/RiotGames-API/)**: Tracks and displays player ranks and stats for games like League of Legends.
 - **Chat Commands**: Provides a wide range of chat commands to engage with viewers and manage the chat more effectively.
 - **Customizable Features**: Offers customizable features and settings to tailor the bot's behavior to the specific needs of the channel.
 - **High Availability**: Connected to a redundant MariaDB database for high availability and failover.
@@ -62,7 +63,7 @@ It is my biggest project yet, highlighting my proficiency in building scalable, 
 
 ---
 
-### [MCmoderSD.de](https://github.com/MCmoderSD/MCmoderSD.de/)
+### [MCmoderSD.de](https://www.GitHub.com/MCmoderSD/MCmoderSD.de/)
 This repository hosts the source code for my personal website, encapsulated as an all-in-one Docker image. 
 It serves as a comprehensive portfolio showcasing my skills in continuous integration and deployment automation.
 
@@ -85,7 +86,7 @@ It demonstrates my ability to integrate various technologies and tools to build,
 
 ---
 
-### [JSQL-Driver](https://github.com/MCmoderSD/JSQL-Driver)
+### [JSQL-Driver](https://www.GitHub.com/MCmoderSD/JSQL-Driver/)
 This repository hosts the source code for a simple Java SQL driver designed to connect to SQL databases, compatible with MySQL, MariaDB, and PostgreSQL. 
 It is built to provide a straightforward and efficient way to interact with SQL databases using Java.
 
@@ -160,7 +161,7 @@ It showcases the ability to create, build, and deploy a Java-based library that 
 - OS: [TrueNAS Scale](https://www.truenas.com/truenas-scale/)
 - Drives:
   - 3x 500GB HHD's
-  - 4x 4000GB HHD's
+  - 5x 4000GB HHD's
   - 1x 240GB SSD
 
 ---
