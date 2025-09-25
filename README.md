@@ -169,7 +169,7 @@ It showcases the ability to create, build, and deploy a Java-based library that 
 ### Other Hardware
 
 - Smartphone: [Samsung Galaxy S23+](https://www.samsung.com/de/smartphones/galaxy-s23/buy/)
-- Tablet: [Samsung Galaxy Tab S6 Lite](https://www.samsung.com/de/tablets/galaxy-tab-s/galaxy-tab-s6-lite-wi-fi-2022-edition-gray-128gb-sm-p613nzaedbt/)
+- Tablet: [Samsung Galaxy Tab S8+](https://www.samsung.com/de/tablets/galaxy-tab-s8/buy/)
 - EarBuds: [Samsung Galaxy Buds 3 Pro](https://www.samsung.com/de/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaadbt/)
 - Watch: [Samsung Galaxy Watch 4 44mm](https://www.samsung.com/de/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r870nzkadbt/)
 - Internet ISP: [Vodafone 250mbit/s ↓ 40mbit/s ↑](https://www.vodafone.de/)
