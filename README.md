@@ -156,7 +156,7 @@ It showcases the ability to create, build, and deploy a Java-based library that 
 - CPU: [AMD Ryzen 5 3400G](https://www.mindfactory.de/product_info.php/AMD-Ryzen-5-3400G-4x-3-70GHz-So-AM4-BOX_1313642.html)
 - RAM: [4x 8GB 2400MHz](https://www.amazon.de/Ballistix-BLS8G4D240FSC-Speicher-PC4-19200-288-Pin/dp/B0198QDLXO/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Crucial+Ballistix+Sport+LT+BLS4K8G4D240FSC&qid=1630305516&sr=8-7)
 - iGPU [AMD Radeon RX Vega 11](https://www.notebookcheck.com/AMD-Radeon-RX-Vega-11-GPU-Ryzen-APU.278618.0.html)
-- GPU: [Nvidia GT 720 2GB](https://www.mindfactory.de/product_info.php/2GB-MSI-GeForce-GT-720-GDDR5-Passiv-PCIe-2-0-x-8--Retail-_982919.html)
+- NIC: [Intel X540-AT2 Dual 10GBit/s](https://www.intel.de/content/www/de/de/products/sku/60020/intel-ethernet-controller-x540at2/specifications.html)
 - PSU: [BeQuiet! System Power 9](https://www.bequiet.com/de/powersupply/1281)
 - OS: [TrueNAS Scale](https://www.truenas.com/truenas-scale/)
 - Drives:
