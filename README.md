@@ -1,26 +1,29 @@
 <!-- **MCmoderSD/MCmoderSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## About Me
-
 **Name:** Seraphin Berger <br>
 **Age:** 21 <br>
 **Location:** Germany 🇩🇪 <br>
-**Occupation:** Student <br>
-**Education:** Pursuing [B.Eng. Software Engineering and Media Computing](https://www.hs-esslingen.de/en/softwaretechnik-und-medieninformatik) <br>
-**University:** [Hochschule Esslingen - University of Applied Sciences](https://www.hs-esslingen.de/) <br>
-**Experience:** Knowledgeable in Java, Linux, and server management <br>
+**Education:** Pursuing [B.Eng. Software Engineering and Media Computing](https://www.hs-esslingen.de/en/softwaretechnik-und-medieninformatik) at [Hochschule Esslingen](https://www.hs-esslingen.de/)
+
+## Job Status
+- **Current Position**: Full Stack Developer at [ODDO BHF SE](https://www.oddo-bhf.com/en/) in Frankfurt am Main, Germany
+- **Employment Type**: Working Student (Werkstudent) since November 2025
+- **Responsibilities**: Developing and maintaining an internal web app.
+- **Technologies**: Angular TypeScript, C# .NET 8, Oracle SQL
 
 ## Technologies & Tools
-
-- **Languages**: Java, C#, SQL
-- **IDE's**: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Visual Studio Code](https://code.visualstudio.com/)
-- **Database**: MariaDB/MySQL
-- **Systems**: Debian-based servers, [TrueNAS Scale](https://www.truenas.com/truenas-scale/)
+- **Languages**: Java, C#, TypeScript, HTML, CSS, SQL
+- **IDE's**: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [WebStorm](https://www.jetbrains.com/webstorm/), [Visual Studio Code](https://code.visualstudio.com/)
+- **Infrastructure**: Debian Linux, TrueNAS Scale, [Hetzner](https://www.hetzner.com/)
+- **Containerization**: Docker, Docker Compose
+- **Services**: [Cloudflare](https://www.cloudflare.com/) (DNS), [Strato](https://www.strato.de/) (Domains)
 
 ## Contact
 
-- **Business Email**: [business@mcmodersd.de](mailto:business@mcmodersd.de)
 - **Discord**: [MCmoderSD](https://mcmodersd.de/dc)
+- **LinkedIn**: [Seraphin Berger](https://www.linkedin.com/in/seraphin-berger/)
+- **Business Email**: [business@mcmodersd.de](mailto:business@mcmodersd.de)
 
 ## Socials
 
@@ -35,35 +38,57 @@
 
 ## Projects
 
-### [YEPPBot](https://github.com/MCmoderSD/YEPPBot)
-This repository hosts the source code for the YEPPBot, a comprehensive Twitch bot featuring numerous tools to entertain and manage your Twitch channel.
+### [YEPPBot](https://github.com/MCmoderSD/YEPPBot) | Java Twitch Bot
+This repository hosts the source code for YEPPBot, a comprehensive Twitch bot featuring numerous tools to entertain and manage your Twitch channel.
 
 #### Technologies Used
-- **Java**: The primary programming language used for developing the Twitch bot.
-- **Docker**: Used for containerizing the application, making it easy to deploy and manage.
+- **Java**: The primary programming language used for developing the bot.
+- **Docker**: Used for containerizing the application, including a published Docker image and Docker Compose setup for easy self-hosting.
 - **GitHub Actions**: Used for continuous integration and deployment automation through YAML configuration.
 
 #### Purpose
-The main purpose of this repository is to provide a versatile and feature-rich Twitch bot that can help manage and enhance your Twitch channel. <br>
+The main purpose of this repository is to provide a versatile and feature-rich Twitch bot that can help manage and enhance your Twitch channel.  
 It demonstrates the ability to create, build, deploy, and maintain a complex Java-based application that interacts with the Twitch platform.
 
 #### Key Features
 - **Automated Build and Deployment**: Utilizes GitHub Actions for CI/CD and multi-architecture support releases.
-- **Multi-API Integration**: Integrates with various third-party APIs to provide a wide range of functionalities:
-  - **[OpenAI-Wrapper](https://www.GitHub.com/MCmoderSD/OpenAI-Wrapper/)**: A custom wrapper to interact with OpenAI APIs for advanced functionalities.
-  - **[OpenWeatherMap](https://www.GitHub.com/MCmoderSD/OpenWeatherMap/)**: Fetches weather information to provide real-time weather updates in the chat.
-  - **[RiotGames-API](https://www.GitHub.com/MCmoderSD/RiotGames-API/)**: Tracks and displays player ranks and stats for games like League of Legends.
+- **Easy Self-Hosting**: Comes with a ready-to-use Docker image and Docker Compose configuration for straightforward deployment.
 - **Chat Commands**: Provides a wide range of chat commands to engage with viewers and manage the chat more effectively.
-- **Customizable Features**: Offers customizable features and settings to tailor the bot's behavior to the specific needs of the channel.
-- **High Availability**: Connected to a redundant MariaDB database for high availability and failover.
-- **Optimized Performance**: The bot runs very efficiently on a Raspberry Pi and gets auto-updates via Docker Watchtower.
+- **Multi-API Integration**: Integrates with various third-party APIs to provide a wide range of functionalities:
+  - **[OpenAI-Wrapper](https://github.com/MCmoderSD/OpenAI-Wrapper/)**: A custom wrapper to interact with OpenAI APIs for advanced functionalities.
+  - **[OpenWeatherMap](https://github.com/MCmoderSD/OpenWeatherMap/)**: Fetches weather information to provide real-time weather updates in the chat.
+  - **[HTTPS-Server](https://github.com/MCmoderSD/HTTPS-Server/)**: A lightweight HTTPS server with automatic TLS certificate management via ACME.
 
-This repository serves as a demonstration of my skills in developing, integrating, and managing a complex Java application with practical applications in the real world.  <br>
+This repository serves as a demonstration of my skills in developing, integrating, and managing a complex Java application with practical applications in the real world.  
 It is my biggest project yet, highlighting my proficiency in building scalable, maintainable, and feature-rich software solutions.
 
 ---
 
-### [MCmoderSD.de](https://www.GitHub.com/MCmoderSD/MCmoderSD.de/)
+### [Tab Scraper](https://github.com/MCmoderSD/TabScraper) | TypeScript Chrome Extension
+A lightweight, privacy-first Chrome extension that collects the URLs of all your open tabs and saves them as a text file, in a single click.
+
+#### Technologies Used
+- **TypeScript**: The primary language used for all extension logic, compiled to ESNext via `tsc`.
+- **Chrome Extension APIs**: Leverages the `tabs`, `downloads`, `storage`, `scripting`, and `activeTab` permissions for full browser integration.
+- **Manifest V3**: Built on the latest Chrome extension standard using a service worker background script.
+
+#### Purpose
+Tab Scraper is designed for researchers, content creators, or anyone who needs to quickly archive or share multiple links at once.  
+It demonstrates the ability to build a polished, production-ready browser extension with a clean UI, persistent settings, and a strict privacy-first approach.
+
+#### Key Features
+- **One-Click Export**: Gather all open tab URLs instantly and save them as a `.txt` file.
+- **Advanced Filtering**: Include or exclude tabs by URL prefix, suffix, or custom regular expressions.
+- **Invert Selection**: Flip any filter to exclude matching patterns instead.
+- **Persistent Settings**: Filter preferences sync across your Chrome profile via `chrome.storage.sync`.
+- **Privacy-First**: All data stays local — no external servers, no tracking, no telemetry.
+- **Modern UI**: Dark mode, responsive layout, and polished styling out of the box.
+
+Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/tab-scraper/ahdhhonppgdiglmppkcjckijelfdalho) or as a self-hosted build via the [GitHub releases page](https://github.com/MCmoderSD/TabScraper/releases/latest).
+
+---
+
+### [MCmoderSD.de](https://www.GitHub.com/MCmoderSD/MCmoderSD.de/) | Personal Website Docker Image
 This repository hosts the source code for my personal website, encapsulated as an all-in-one Docker image. 
 It serves as a comprehensive portfolio showcasing my skills in continuous integration and deployment automation.
 
@@ -84,24 +109,6 @@ It demonstrates my ability to integrate various technologies and tools to build,
 - **Multi-Arch Image**: The Docker image is a multi-architecture image, supporting amd64, arm64, and other architectures. This is essential as the Docker host is a Raspberry Pi at my home.
 - **Optimized Performance**: The Docker image is very slim and performant, requiring minimal space and resources to run efficiently.
 
----
-
-### [JSQL-Driver](https://www.GitHub.com/MCmoderSD/JSQL-Driver/)
-This repository hosts the source code for a simple Java SQL driver designed to connect to SQL databases, compatible with MySQL, MariaDB, and PostgreSQL. 
-It is built to provide a straightforward and efficient way to interact with SQL databases using Java.
-
-#### Technologies Used
-- **Java**: The primary programming language used for developing the SQL driver.
-- **GitHub Actions**: Used for continuous integration and deployment automation through YAML configuration.
-
-#### Purpose
-The main purpose of this repository is to offer a minimalistic and efficient SQL driver for Java applications. 
-It showcases the ability to create, build, and deploy a Java-based library that can be seamlessly integrated into other projects.
-
-#### Key Features
-- **Automated Build and Deployment**: Utilizes GitHub Actions for continuous integration and continuous deployment (CI/CD). This includes building the JAR file and deploying it to my Sonatype Nexus OSS Maven Repository, a self-hosted repository for distributing Maven dependencies.
-- **Workflow Automation**: The GitHub Actions workflow compiles the Java code, packages it into a JAR file, and deploys it to the Sonatype Nexus OSS Maven Repository, ensuring that every commit is automatically built and deployed.
-- **Release Management**: Automatically generates a release on GitHub with the built JAR file and its hashes, providing an added layer of security by allowing users to verify the authenticity and integrity of the downloaded files.
 
 ## Hardware
 
