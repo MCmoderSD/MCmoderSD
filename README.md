@@ -1,32 +1,29 @@
 <!-- **MCmoderSD/MCmoderSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## About Me
-**Name:** Seraphin Berger <br>
-**Age:** 21 <br>
-**Location:** Germany 🇩🇪 <br>
-**Education:** Pursuing [B.Eng. Software Engineering and Media Computing](https://www.hs-esslingen.de/en/softwaretechnik-und-medieninformatik) at [Hochschule Esslingen](https://www.hs-esslingen.de/)
+- **Name:** Seraphin Berger
+- **Age:** 21
+- **Location:** Germany
+- **Education:** Pursuing [B.Eng. Software Engineering and Media Computing](https://www.hs-esslingen.de/en/softwaretechnik-und-medieninformatik) at [Hochschule Esslingen](https://www.hs-esslingen.de/)
 
 ## Job Status
 - **Current Position**: Full Stack Developer at [ODDO BHF SE](https://www.oddo-bhf.com/en/) in Frankfurt am Main, Germany
-- **Employment Type**: Working Student (Werkstudent) since November 2025
-- **Responsibilities**: Developing and maintaining an internal web app.
+- **Employment Type**: Paid Internship (Werkstudent) since November 2025
+- **Responsibilities**: Developing and maintaining an internal web app
 - **Technologies**: Angular TypeScript, C# .NET 8, Oracle SQL
 
-## Technologies & Tools
+## Technologies
 - **Languages**: Java, C#, TypeScript, HTML, CSS, SQL
-- **IDE's**: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [WebStorm](https://www.jetbrains.com/webstorm/), [Visual Studio Code](https://code.visualstudio.com/)
 - **Infrastructure**: Debian Linux, TrueNAS Scale, [Hetzner](https://www.hetzner.com/)
 - **Containerization**: Docker, Docker Compose
-- **Services**: [Cloudflare](https://www.cloudflare.com/) (DNS), [Strato](https://www.strato.de/) (Domains)
+- **Services**: [Cloudflare](https://www.cloudflare.com/), [OpenAI API](https://openai.com/en-US/api/), GitHub Actions
 
 ## Contact
-
 - **Discord**: [MCmoderSD](https://mcmodersd.de/dc)
 - **LinkedIn**: [Seraphin Berger](https://www.linkedin.com/in/seraphin-berger/)
 - **Business Email**: [business@mcmodersd.de](mailto:business@mcmodersd.de)
 
 ## Socials
-
 [![Homepage](https://img.shields.io/badge/MCmoderSD.de-000?style=for-the-badge&logo=&logoColor=white&height=30)](https://www.MCmoderSD.de/)
 [![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&height=30)](https://www.MCmoderSD.de/steam)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=30)](https://www.MCmoderSD.de/twitter)
@@ -41,19 +38,14 @@
 ### [YEPPBot](https://github.com/MCmoderSD/YEPPBot) | Java Twitch Bot
 This repository hosts the source code for YEPPBot, a comprehensive Twitch bot featuring numerous tools to entertain and manage your Twitch channel.
 
-#### Technologies Used
+#### Tech Stack
 - **Java**: The primary programming language used for developing the bot.
 - **Docker**: Used for containerizing the application, including a published Docker image and Docker Compose setup for easy self-hosting.
 - **GitHub Actions**: Used for continuous integration and deployment automation through YAML configuration.
 
-#### Purpose
-The main purpose of this repository is to provide a versatile and feature-rich Twitch bot that can help manage and enhance your Twitch channel.  
-It demonstrates the ability to create, build, deploy, and maintain a complex Java-based application that interacts with the Twitch platform.
-
 #### Key Features
 - **Automated Build and Deployment**: Utilizes GitHub Actions for CI/CD and multi-architecture support releases.
 - **Easy Self-Hosting**: Comes with a ready-to-use Docker image and Docker Compose configuration for straightforward deployment.
-- **Chat Commands**: Provides a wide range of chat commands to engage with viewers and manage the chat more effectively.
 - **Multi-API Integration**: Integrates with various third-party APIs to provide a wide range of functionalities:
   - **[OpenAI-Wrapper](https://github.com/MCmoderSD/OpenAI-Wrapper/)**: A custom wrapper to interact with OpenAI APIs for advanced functionalities.
   - **[OpenWeatherMap](https://github.com/MCmoderSD/OpenWeatherMap/)**: Fetches weather information to provide real-time weather updates in the chat.
@@ -67,14 +59,10 @@ It is my biggest project yet, highlighting my proficiency in building scalable, 
 ### [Tab Scraper](https://github.com/MCmoderSD/TabScraper) | TypeScript Chrome Extension
 A lightweight, privacy-first Chrome extension that collects the URLs of all your open tabs and saves them as a text file, in a single click.
 
-#### Technologies Used
+#### Tech Stack
 - **TypeScript**: The primary language used for all extension logic, compiled to ESNext via `tsc`.
 - **Chrome Extension APIs**: Leverages the `tabs`, `downloads`, `storage`, `scripting`, and `activeTab` permissions for full browser integration.
 - **Manifest V3**: Built on the latest Chrome extension standard using a service worker background script.
-
-#### Purpose
-Tab Scraper is designed for researchers, content creators, or anyone who needs to quickly archive or share multiple links at once.  
-It demonstrates the ability to build a polished, production-ready browser extension with a clean UI, persistent settings, and a strict privacy-first approach.
 
 #### Key Features
 - **One-Click Export**: Gather all open tab URLs instantly and save them as a `.txt` file.
@@ -92,15 +80,10 @@ Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/tab
 This repository hosts the source code for my personal website, encapsulated as an all-in-one Docker image. 
 It serves as a comprehensive portfolio showcasing my skills in continuous integration and deployment automation.
 
-#### Technologies Used
+#### Tech Stack
 - **HTML**: The primary markup language for the website's structure.
-- **CSS**: Used for styling the website, ensuring a visually appealing and responsive design.
 - **Dockerfile**: Scripts for containerizing the application, making it easy to deploy and manage.
-- **GitHub Actions**: Used for continuous integration and deployment automation through YAML configuration.
-
-#### Purpose
-The main purpose of this repository is to serve as my personal website. 
-It demonstrates my ability to integrate various technologies and tools to build, deploy, and maintain a web application.
+- **GitHub Actions & Watchtower**: Used for continuous integration and deployment automation through YAML configuration.
 
 #### Key Features
 - **Workflow Automation**: Utilizes GitHub Actions for continuous integration and continuous deployment (CI/CD). This includes building the Docker image and deploying updates seamlessly.
@@ -122,7 +105,6 @@ It demonstrates my ability to integrate various technologies and tools to build,
 - NVMe M.2 SSD:
   - C: Drive: [WD Black SN850X 2TB](https://shop.sandisk.com/de-de/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd?sku=WDS100T2X0E-00BCA0)
   - D: Drive: [WD Black SN850 1TB](https://www.westerndigital.com/de-de/products/internal-drives/wd-black-sn850-nvme-ssd)
-
 - HDD: [Seagate Desktop SSHD 2TB](https://www.amazon.de/Seagate-Desktop-interne-Hybrid-Festplatte-7200rpm/dp/B00EIQTKAS)
 - NIC: [Intel X540-AT2 Dual 10GBit/s](https://www.intel.de/content/www/de/de/products/sku/60020/intel-ethernet-controller-x540at2/specifications.html)
 - Case: [Kolink Balance](https://kolink.eu/Home/case-1/midi-tower-2/others/balance-1.html)
@@ -145,7 +127,7 @@ It demonstrates my ability to integrate various technologies and tools to build,
 - VR Headset: [Meta Quest 3S](https://www.meta.com/de/quest/quest-3s/)
 - VR Head-Strap: [KIWI Design H4 Boost](https://www.kiwidesign.com/de-eu/products/h4-boost-halo-battery-strap)
 
---- 
+---
 
 ### Mobile
 - Notebook: [HP 255 15.6 inch G10](https://www.notebooksbilliger.de/hp+255+g10+853t0es+805699)
