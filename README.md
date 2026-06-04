@@ -103,15 +103,14 @@ It showcases the ability to create, build, and deploy a Java-based library that 
 - **Workflow Automation**: The GitHub Actions workflow compiles the Java code, packages it into a JAR file, and deploys it to the Sonatype Nexus OSS Maven Repository, ensuring that every commit is automatically built and deployed.
 - **Release Management**: Automatically generates a release on GitHub with the built JAR file and its hashes, providing an added layer of security by allowing users to verify the authenticity and integrity of the downloaded files.
 
-
 ## Hardware
 
-### [Main Rig](https://pcpartpicker.com/list/zttyWc)
+### [Main Rig](https://pcpartpicker.com/list/x272mL)
 - Mainboard: [Asus ROG Strix B550-F Gaming WiFi 2](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/)
 - CPU: [AMD Ryzen 7 5800X](https://www.amd.com/de/products/cpu/amd-ryzen-7-5800x)
 - AIO Liquid Cooler: [NZXT Kraken X63 RGB](https://nzxt.com/product/kraken-x63-rgb)
 - RAM: [Corsair Vengeance RGB Pro 2x32GB 3600MHz CL18](https://www.corsair.com/de/de/p/memory/cmw64gx4m2d3600c18/vengeance-rgb-pro-64gb-2-x-32gb-ddr4-dram-3600mhz-c18-memory-kit-black-cmw64gx4m2d3600c18)
-- GPU: [MSI Nvidia GeForce RTX 3060 12GB Gaming Z Trio](https://www.msi.com/Graphics-card/GeForce-RTX-3060-GAMING-Z-TRIO-12G)
+- GPU: [Zotac Gaming GeForce RTX 5070 TI SOLID SFF](https://www.zotac.com/at/product/graphics_card/zotac-gaming-geforce-rtx-5070-ti-solid-sff-0)
 - PSU: [BeQuiet! Pure Power 12 M 750W](https://www.bequiet.com/de/powersupply/4073)
 - NVMe M.2 SSD:
   - C: Drive: [WD Black SN850X 2TB](https://shop.sandisk.com/de-de/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd?sku=WDS100T2X0E-00BCA0)
@@ -125,7 +124,7 @@ It showcases the ability to create, build, and deploy a Java-based library that 
 ---
 
 - Monitors:
-  - 1st: [AOC AGON AG251FZ 240hz](https://agon.aocmonitorap.com/my/product_ag251fz.php)
+  - 1st: [ASUS TUF Gaming VG249QM1A 270hz](https://www.asus.com/de/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg249qm1a/)
   - 2nd: [Samsung LF24T350FHR](https://www.samsung.com/de/monitors/flat/t35f-24-inch-ips-fhd-1080p-freesync-lf24t350fhrxen/)
 - Monitor Mount: [BONTEC Monitor Bracket](https://www.amazon.de/gp/product/B01MR397OH/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - WebCam: [Logitech StreamCam](https://www.logitech.com/de-de/products/webcams/streamcam.960-001281.html#buy-streamcam)
@@ -136,7 +135,8 @@ It showcases the ability to create, build, and deploy a Java-based library that 
 - Mouse: [Logitech Pro X Superlight 2](https://www.logitechg.com/de-de/products/gaming-mice/pro-x2-superlight-wireless-mouse.910-006630.html)
 - Mousepad:[Glorious 3XL Extended Mousepad](https://www.pcgamingrace.com/products/glorious-3xl-extended-24x48-stealth-edition)
 - Controller: [Xbox Wireless Controller Custom Design](https://xboxdesignlab.xbox.com/)
-- VR Headset: [HTC Vive Cosmos](https://www.vive.com/de/product/vive-cosmos/overview/)
+- VR Headset: [Meta Quest 3S](https://www.meta.com/de/quest/quest-3s/)
+- VR Head-Strap: [KIWI Design H4 Boost](https://www.kiwidesign.com/de-eu/products/h4-boost-halo-battery-strap)
 
 --- 
 
@@ -151,13 +151,15 @@ It showcases the ability to create, build, and deploy a Java-based library that 
 
 ---
 
-### [Home Server](https://pcpartpicker.com/list/W9NkGP)
-- Mainboard: [Asus Prime B450M-A II](https://www.asus.com/de/motherboards-components/motherboards/prime/prime-b450m-a-ii/)
+### [Home Server](https://pcpartpicker.com/list/ZYTv3R)
+- Mainboard: [Asus Prime B550-Plus](https://www.asus.com/de/motherboards-components/motherboards/prime/prime-b550-plus/)
 - CPU: [AMD Ryzen 5 3400G](https://www.mindfactory.de/product_info.php/AMD-Ryzen-5-3400G-4x-3-70GHz-So-AM4-BOX_1313642.html)
 - RAM: [4x 8GB 2400MHz](https://www.amazon.de/Ballistix-BLS8G4D240FSC-Speicher-PC4-19200-288-Pin/dp/B0198QDLXO/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Crucial+Ballistix+Sport+LT+BLS4K8G4D240FSC&qid=1630305516&sr=8-7)
 - iGPU [AMD Radeon RX Vega 11](https://www.notebookcheck.com/AMD-Radeon-RX-Vega-11-GPU-Ryzen-APU.278618.0.html)
+- GPU: [ASRock Intel Arc A380 6GB OC](https://www.asrock.com/Graphics-Card/Intel/Intel%20Arc%20A380%20Challenger%20ITX%206GB%20OC/)
+- PSU: [BeQuiet! Pure Power 13 M 550W](https://www.bequiet.com/de/powersupply/5976)
 - NIC: [Intel X540-AT2 Dual 10GBit/s](https://www.intel.de/content/www/de/de/products/sku/60020/intel-ethernet-controller-x540at2/specifications.html)
-- PSU: [BeQuiet! System Power 9](https://www.bequiet.com/de/powersupply/1281)
+- Case: [Inter-Tech 4U-40248](https://www.inter-tech.de/produktdetails-17/4U-40248.html)
 - OS: [TrueNAS Scale](https://www.truenas.com/truenas-scale/)
 - Drives:
   - 3x 500GB HHD's
@@ -167,12 +169,19 @@ It showcases the ability to create, build, and deploy a Java-based library that 
 ---
 
 ### Other Hardware
-
-- Smartphone: [Samsung Galaxy S23+](https://www.samsung.com/de/smartphones/galaxy-s23/buy/)
+- Smartphone: [Samsung Galaxy S26 Ultra 1TB](https://www.samsung.com/de/smartphones/galaxy-s26-ultra/buy/)
 - Tablet: [Samsung Galaxy Tab S8+](https://www.samsung.com/de/tablets/galaxy-tab-s8/buy/)
-- EarBuds: [Samsung Galaxy Buds 3 Pro](https://www.samsung.com/de/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaadbt/)
+- EarBuds: [Samsung Galaxy Buds 4 Pro](https://www.samsung.com/de/audio-sound/galaxy-buds4-pro/buy/)
 - Watch: [Samsung Galaxy Watch 4 44mm](https://www.samsung.com/de/watches/galaxy-watch/galaxy-watch4-black-bluetooth-sm-r870nzkadbt/)
 - Internet ISP: [Vodafone 250mbit/s ↓ 40mbit/s ↑](https://www.vodafone.de/)
-- Router/Modem: [AMV FRITZ!Box 7530](https://avm.de/produkte/fritzbox/fritzbox-7530/)
-- Router Access Point: [AMV FRITZ!Box 7430](https://www.mediamarkt.de/de/product/_avm-fritzbox-7430-20002733-router-107835303.html)
-- Lights: [Govee RGBIC LED Strip](https://www.amazon.de/gp/product/B093PRYW1D/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- Modem: [AMV FRITZ!Box 7530](https://avm.de/produkte/fritzbox/fritzbox-7530/)
+- Router: [Ubiquiti UniFi Dream Router 7](https://eu.store.ui.com/eu/en/category/cloud-gateways-wifi-integrated/products/udr7)
+- Access Point: [Ubiquiti UniFi U7 Lite](https://eu.store.ui.com/eu/en/category/wifi-flagship/products/u7-lite)
+
+---
+
+### Smart Home
+- Smart Home Hub: [Home Assistant](https://www.home-assistant.io/)
+- Zigbee Antenna: [Sonoff Zigbee 3.0 USB Dongle Plus](https://sonoff.tech/de-de/products/sonoff-zigbee-3-0-usb-dongle-plus-zbdongle-p)
+- Smart Plugs: [TP-Link Tapo P110](https://www.tp-link.com/de/home-networking/smart-plug/tapo-p110/)
+- Smoke Detector: [Aqara Smoke Detector](https://www.aqara.com/eu/product/smoke-detector/)
