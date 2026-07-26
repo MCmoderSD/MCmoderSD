@@ -56,6 +56,28 @@ It is my biggest project yet, highlighting my proficiency in building scalable, 
 
 ---
 
+### [MCmoderSD.de](https://github.com/MCmoderSD/MCmoderSD.de) | Personal Portfolio & Homepage
+This repository hosts the source code for my personal portfolio and homepage. It's an Angular application that presents who I am, the projects I've built, the open-source packages I maintain, and the self-hosted services running on my home server.
+
+#### Tech Stack
+- **Angular 22**: Standalone-first, signal-based components, native control flow, and `input()`/`output()`/`computed()` for state.
+- **TypeScript**: Strict mode throughout.
+- **Angular Material**: Layered with a custom, hand-built design system, CSS custom properties, OKLCh colors, wide-gamut/P3 support, and a dark/light color-scheme switch.
+- **SSR & Pre-rendering**: Server-side rendering and static pre-rendering via `@angular/ssr`, served through a minimal **Express** server.
+- **Vitest**: Unit testing.
+- **Docker**: Multi-stage, multi-architecture (`amd64` + `arm64`) image, built with Buildx on native per-arch GitHub Actions runners with registry-backed layer caching.
+
+#### Key Features
+- **Accessible by design**: Built to pass AXE checks and WCAG AA minimums — focus management, color contrast, and ARIA attributes are treated as requirements, not afterthoughts.
+- **Custom design system**: A cursor-following spotlight, a floating custom scrollbar, and a wide-gamut color palette that degrades gracefully on unsupported displays.
+- **Automated CI/CD**: GitHub Actions builds and publishes the multi-arch Docker image to Docker Hub on every push, with Dependabot keeping GitHub Actions and the base image up to date automatically.
+- **Production hosting**: Runs behind a **Caddy** reverse proxy that provisions and renews its own TLS certificates via the **Cloudflare** DNS challenge, with custom static error pages (404, 500, 502, 503, 504, ...) styled to match the site.
+- **Security-conscious server**: Strict host allowlisting, security headers (HSTS, X-Frame-Options, Referrer-Policy, ...), and Brotli/gzip compression on the Express layer.
+
+This repository demonstrates my ability to design and ship a production web application end-to-end: a polished, accessible frontend, a hardened SSR backend, and a fully automated build, security-update, and deployment pipeline.
+
+---
+
 ### [Tab Scraper](https://github.com/MCmoderSD/TabScraper) | TypeScript Chrome Extension
 A lightweight, privacy-first Chrome extension that collects the URLs of all your open tabs and saves them as a text file, in a single click.
 
@@ -73,24 +95,6 @@ A lightweight, privacy-first Chrome extension that collects the URLs of all your
 - **Modern UI**: Dark mode, responsive layout, and polished styling out of the box.
 
 Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/tab-scraper/ahdhhonppgdiglmppkcjckijelfdalho) or as a self-hosted build via the [GitHub releases page](https://github.com/MCmoderSD/TabScraper/releases/latest).
-
----
-
-### [MCmoderSD.de](https://www.GitHub.com/MCmoderSD/MCmoderSD.de/) | Personal Website Docker Image
-This repository hosts the source code for my personal website, encapsulated as an all-in-one Docker image. 
-It serves as a comprehensive portfolio showcasing my skills in continuous integration and deployment automation.
-
-#### Tech Stack
-- **HTML**: The primary markup language for the website's structure.
-- **Dockerfile**: Scripts for containerizing the application, making it easy to deploy and manage.
-- **GitHub Actions & Watchtower**: Used for continuous integration and deployment automation through YAML configuration.
-
-#### Key Features
-- **Workflow Automation**: Utilizes GitHub Actions for continuous integration and continuous deployment (CI/CD). This includes building the Docker image and deploying updates seamlessly.
-- **Docker Hosting**: The website is hosted within a Docker container, providing a consistent environment across different deployment platforms. The container runs behind a reverse proxy for enhanced performance and security.
-- **Auto-Update with Watchtower**: Watchtower is used to monitor the Docker container for updates. Whenever an update is available, Watchtower automatically pulls the latest version and restarts the container to apply the update without downtime.
-- **Multi-Arch Image**: The Docker image is a multi-architecture image, supporting amd64, arm64, and other architectures. This is essential as the Docker host is a Raspberry Pi at my home.
-- **Optimized Performance**: The Docker image is very slim and performant, requiring minimal space and resources to run efficiently.
 
 
 ## Hardware
