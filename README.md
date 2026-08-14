@@ -2,7 +2,7 @@
 
 ## About Me
 - **Name:** Seraphin Berger
-- **Age:** 21
+- **Age:** 22
 - **Location:** Germany
 - **Education:** Pursuing [B.Eng. Software Engineering and Media Computing](https://www.hs-esslingen.de/en/softwaretechnik-und-medieninformatik) at [Hochschule Esslingen](https://www.hs-esslingen.de/)
 
