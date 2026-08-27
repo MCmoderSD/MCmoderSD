@@ -1,37 +1,31 @@
 <!-- **MCmoderSD/MCmoderSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+# Seraphin Berger
+
+Software engineering student and full stack developer based in Germany, currently building internal web applications at ODDO BHF SE. I work primarily with Angular, .NET and Java, and self-host and automate most of what I run.
+
 ## About Me
 - **Name:** Seraphin Berger
 - **Age:** 22
 - **Location:** Germany
 - **Education:** Pursuing [B.Eng. Software Engineering and Media Computing](https://www.hs-esslingen.de/en/softwaretechnik-und-medieninformatik) at [Hochschule Esslingen](https://www.hs-esslingen.de/)
 
-## Job Status
-- **Current Position**: Full Stack Developer at [ODDO BHF SE](https://www.oddo-bhf.com/en/) in Frankfurt am Main, Germany
-- **Employment Type**: Paid Internship (Werkstudent) since November 2025
-- **Responsibilities**: Developing and maintaining an internal web app
-- **Technologies**: Angular TypeScript, C# .NET 8, Oracle SQL
+## Experience
+- **Current Position:** Full Stack Developer at [ODDO BHF SE](https://www.oddo-bhf.com/en/) in Frankfurt am Main, Germany
+- **Employment Type:** Working Student (Werkstudent) since November 2025
+- **Responsibilities:** Developing and maintaining an internal web application
+- **Technologies:** Angular, TypeScript, C# .NET 8, Oracle SQL
 
 ## Technologies
-- **Languages**: Java, C#, TypeScript, HTML, CSS, SQL
-- **Infrastructure**: Debian Linux, TrueNAS Scale, [Hetzner](https://www.hetzner.com/)
-- **Containerization**: Docker, Docker Compose
-- **Services**: [Cloudflare](https://www.cloudflare.com/), [OpenAI API](https://openai.com/en-US/api/), GitHub Actions
+- **Languages:** Java, C#, TypeScript, HTML, CSS, SQL
+- **Infrastructure:** Debian Linux, TrueNAS Scale, [Hetzner](https://www.hetzner.com/)
+- **Containerization:** Docker, Docker Compose
+- **Services:** [Cloudflare](https://www.cloudflare.com/), [OpenAI API](https://openai.com/en-US/api/), GitHub Actions
 
 ## Contact
-- **Discord**: [MCmoderSD](https://mcmodersd.de/dc)
-- **LinkedIn**: [Seraphin Berger](https://www.linkedin.com/in/seraphin-berger/)
-- **Business Email**: [business@mcmodersd.de](mailto:business@mcmodersd.de)
-
-## Socials
-[![Homepage](https://img.shields.io/badge/MCmoderSD.de-000?style=for-the-badge&logo=&logoColor=white&height=30)](https://www.MCmoderSD.de/)
-[![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&height=30)](https://www.MCmoderSD.de/steam)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=30)](https://www.MCmoderSD.de/twitter)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&height=30)](https://www.MCmoderSD.de/ttv)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height=30)](https://www.MCmoderSD.de/yt)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&height=30)](https://www.MCmoderSD.de/reddit)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=30)](https://www.MCmoderSD.de/insta)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&height=30)](http://www.MCmoderSD.de/spotify)
+- **Website:** [mcmodersd.de](https://www.mcmodersd.de/)
+- **LinkedIn:** [Seraphin Berger](https://www.linkedin.com/in/seraphin-berger/)
+- **Email:** [business@mcmodersd.de](mailto:business@mcmodersd.de)
 
 ## Projects
 
@@ -96,6 +90,7 @@ A lightweight, privacy-first Chrome extension that collects the URLs of all your
 
 Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/tab-scraper/ahdhhonppgdiglmppkcjckijelfdalho) or as a self-hosted build via the [GitHub releases page](https://github.com/MCmoderSD/TabScraper/releases/latest).
 
+---
 
 ## Hardware
 
@@ -134,12 +129,13 @@ Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/tab
 ---
 
 ### Mobile
-- Notebook: [HP 255 15.6 inch G10](https://www.notebooksbilliger.de/hp+255+g10+853t0es+805699)
-- CPU: [AMD Ryzen 5 7530U](https://www.amd.com/de/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7530u.html)
-- RAM: [2x Crucial 16GB DDR4-3200 CL22](https://www.notebooksbilliger.de/crucial+16gb+ddr4+3200+cl22+683186)
-- GPU: [AMD ATI Barcelo](https://www.techpowerup.com/gpu-specs/amd-barcelo.g1045)
-- NVMe: [Samsung 970 EVO 1TB](https://www.samsung.com/de/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1tb-mz-v7s1t0b/)
-- OS [Kubuntu 24.10 with KDE Plasma 6.1.5](https://kubuntu.org/getkubuntu/)
+- Notebook: [Samsung Galaxy Book6 Pro 16" (NP960XJG-KG6DE)](https://www.samsung.com/de/computers/galaxy-book/galaxy-book6-pro-ultra-x7-32gb-1tb-np960xjg-kg6de/)
+- CPU: [Intel Core Ultra X7 358H](https://www.intel.com/content/www/us/en/products/sku/245527/intel-core-ultra-x7-processor-358h-18m-cache-up-to-4-80-ghz/specifications.html)
+- GPU: Intel Arc B390 (integrated)
+- RAM: 32GB LPDDR5X 9600 MT/s (on board)
+- NVMe: 1TB NVMe SSD
+- Display: 16" Dynamic AMOLED 2X, 2880x1800 (WQXGA+), 30-120Hz
+- OS: [Windows 11 Pro](https://www.microsoft.com/de-de/windows/windows-11)
 - Mouse: [SteelSeries Rival 3](https://de.steelseries.com/gaming-mice/rival-3-wireless)
 
 ---
